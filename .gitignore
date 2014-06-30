@@ -1,0 +1,13 @@
+/nbproject/private/
+/m/deploy/
+/protected/runtime/
+. project
+assets/
+.DS_Store
+<<<<<<< HEAD
+/m/js/config.js
+/m/deploy.zip
+index.php
+=======
+/m/js/config.js
+>>>>>>> mode changes

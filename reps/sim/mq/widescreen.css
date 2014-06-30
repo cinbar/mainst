@@ -1,0 +1,5 @@
+.cr {display: none;}
+.wide {
+	display: block !important;
+	font-size: 24px;
+}

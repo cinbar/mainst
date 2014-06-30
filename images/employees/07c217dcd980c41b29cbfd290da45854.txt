@@ -1,0 +1,12 @@
+API Website
+http://api.mainstreetadvisor.net/
+Dashboard Website:
+http://dashboard.mainstreetadvisor.net/
+
+Both are on the same ftp account:
+SFTP User: mainstreet
+SFTP Pass: 4PZpv93t4BDr7uRk
+
+MySQL User: mainstreet
+MySQL Pass: 4PZpv93t4BDr7uRk
+MySQL Db: mainstreet
